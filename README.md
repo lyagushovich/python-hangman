@@ -2,4 +2,4 @@
 This is the old game, where you guess the word.
 
 # How to start
-python3 hangman.py word
+`python3 hangman.py word`
